@@ -1,0 +1,98 @@
+Rond [point=[28][25], rayon=23, col=VERT]
+Segment [start=[1][38], end=[29][38], horizontal=true, col=BLEU]
+Rond [point=[48][30], rayon=35, col=NOIR]
+Segment [start=[38][6], end=[44][6], horizontal=true, col=BLEU]
+Segment [start=[41][47], end=[41][50], horizontal=false, col=NOIR]
+Rond [point=[48][36], rayon=72, col=JAUNE]
+Rond [point=[16][13], rayon=25, col=JAUNE]
+Rond [point=[6][13], rayon=49, col=VERT]
+Segment [start=[7][32], end=[13][32], horizontal=true, col=ROUGE]
+Segment [start=[15][38], end=[15][44], horizontal=false, col=JAUNE]
+Carre [pointBasGauche=[8][14], pointBasDroit=[14][14], pointHautGauche=[8][20], pointHautDroit=[14][20], col=VERT]
+Rond [point=[1][14], rayon=75, col=JAUNE]
+Rond [point=[22][35], rayon=77, col=VERT]
+Segment [start=[37][22], end=[50][22], horizontal=true, col=NOIR]
+Rond [point=[5][4], rayon=48, col=ROUGE]
+Carre [pointBasGauche=[50][27], pointBasDroit=[50][27], pointHautGauche=[50][27], pointHautDroit=[50][27], col=JAUNE]
+Rond [point=[18][15], rayon=49, col=VERT]
+Rond [point=[40][28], rayon=0, col=VERT]
+Rond [point=[42][13], rayon=6, col=NOIR]
+Segment [start=[8][9], end=[17][9], horizontal=true, col=NOIR]
+Rond [point=[46][34], rayon=31, col=NOIR]
+Rond [point=[35][20], rayon=67, col=JAUNE]
+Rond [point=[10][16], rayon=26, col=JAUNE]
+Rond [point=[49][0], rayon=37, col=JAUNE]
+Rond [point=[16][25], rayon=12, col=JAUNE]
+Rond [point=[23][28], rayon=79, col=ROUGE]
+Rond [point=[24][0], rayon=61, col=JAUNE]
+Rond [point=[29][7], rayon=48, col=BLEU]
+Rond [point=[5][42], rayon=79, col=BLEU]
+Rond [point=[38][50], rayon=93, col=NOIR]
+Rond [point=[13][42], rayon=84, col=VERT]
+Carre [pointBasGauche=[12][36], pointBasDroit=[24][36], pointHautGauche=[12][48], pointHautDroit=[24][48], col=NOIR]
+Rond [point=[3][38], rayon=51, col=VERT]
+Rond [point=[32][31], rayon=98, col=JAUNE]
+Rond [point=[24][11], rayon=52, col=BLEU]
+Rond [point=[38][20], rayon=7, col=NOIR]
+Rond [point=[31][29], rayon=12, col=NOIR]
+Rond [point=[34][2], rayon=79, col=JAUNE]
+Carre [pointBasGauche=[1][6], pointBasDroit=[11][6], pointHautGauche=[1][16], pointHautDroit=[11][16], col=JAUNE]
+Carre [pointBasGauche=[38][5], pointBasDroit=[40][5], pointHautGauche=[38][7], pointHautDroit=[40][7], col=BLEU]
+Rond [point=[35][28], rayon=59, col=VERT]
+Rond [point=[6][5], rayon=70, col=JAUNE]
+Rectangle [pointBasGauche=[5][2], pointBasDroit=[16][2], pointHautGauche=[5][48], pointHautDroit=[16][48], col=ROUGE]
+Carre [pointBasGauche=[17][23], pointBasDroit=[41][23], pointHautGauche=[17][47], pointHautDroit=[41][47], col=ROUGE]
+Rond [point=[23][41], rayon=36, col=JAUNE]
+Rectangle [pointBasGauche=[24][6], pointBasDroit=[41][6], pointHautGauche=[24][44], pointHautDroit=[41][44], col=BLEU]
+==================================================================
+                                                  
+      J       J J                     B           
+                                                  
+                                      V           
+                                                  
+  R R                                     B     R 
+     J       V                                    
+                                R                 
+         N    V     V                             
+                                                  
+                J                                 
+      J         J                                 
+                                    N           N 
+                                R         V       
+              V     V                             
+                                      J     J     
+  R          J           J                      R 
+         N             R                       R  
+               V                                  
+                                                  
+                                                  
+                                                  
+                                   V              
+                            R            J        
+J     B    B                        N       B   N 
+                                                  
+                                                  
+                                                  
+                         V                        
+       B                              B           
+                                                  
+                             N                    
+                               J                  
+                                                  
+  J                                               
+                    J       V                     
+                                                  
+                      N                           
+     BBB            N                             
+                                                  
+     B B                    V                     
+      B                R                    B  R  
+             N                                    
+                                                  
+      B                                           
+                                                  
+                                  N               
+                                                  
+                              N     J             
+J                                                 
+
