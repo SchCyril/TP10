@@ -25,4 +25,5 @@ public class Carre extends Rectangle {
 	//ajout d'un commentaire pour le test git ok ok ok 
 	//blabla
 	//again
+	//coucou
 }
