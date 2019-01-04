@@ -22,4 +22,7 @@ public class Carre extends Rectangle {
 		return "CARRE";
 	}
 
+	//ajout d'un commentaire pour le test git ok ok ok 
+	//blabla
+
 }
