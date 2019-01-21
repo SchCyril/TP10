@@ -214,7 +214,7 @@ public final class FigureUtil {
 				}
 			}
 		}
-		System.out.println(str.toString());
+		LOGGER.trace(str.toString());
 		br.close();
 		fr.close();
 	}

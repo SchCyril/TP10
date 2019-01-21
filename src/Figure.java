@@ -13,7 +13,7 @@ public abstract class Figure implements Comparable<Figure> {
 	protected abstract String getType();
 
 	public void affiche() {
-		System.out.println(toString());
+		LOGGER.trace(toString());
 	}
 
 	public abstract Collection<Point> getPoints();

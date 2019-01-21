@@ -14,12 +14,12 @@ public class Ecrit implements Runnable {
 	public void run() {
 		for (int i = 0; i < nb; i++) {
 
-			System.out.println(texte);
+			LOGGER.trace(texte);
 			try {
 				Thread.sleep(duration);
 
 			} catch (InterruptedException e) {
-				System.out.println("InterruptedException : " + e.getMessage());
+				LOGGER.trace("InterruptedException : " + e.getMessage());
 
 			}
 		}
